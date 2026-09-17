@@ -6,5 +6,11 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-pay = int(input())
-price = int(input())
+pay = int(input("จำนวนเงินที่จ่าย:"))
+price = int(input("ราคาสินค้า:"))
+
+if pay = ("จำนวนเงินที่จ่าย")
+elif price = ("ราคาสินค้า")
+else:
+    Print(จำนวนเงินทอน(pay-price))
+
